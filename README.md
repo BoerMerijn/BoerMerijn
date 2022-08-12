@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @BoerMerijn
+- 👀 I’m interested in supply chain management, consumer behaviour, optimization, machine learning, reinforcement learning, data analytics.
+- 🌱 I’m currently learning DSDev.
+- 💞️ I’m looking to collaborate on anomaly detection algorithms.
+- 📫 How to reach me: boer.m@pg.com.
